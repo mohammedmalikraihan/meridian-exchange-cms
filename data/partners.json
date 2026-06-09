@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Government & Regulatory Participants",
+    "category": "government",
+    "tier": "Announcing Soon",
+    "logo": "",
+    "website": "",
+    "active": true,
+    "order": 1
+  },
+  {
+    "name": "Industry & Technology Participants",
+    "category": "industry",
+    "tier": "Announcing Soon",
+    "logo": "",
+    "website": "",
+    "active": true,
+    "order": 2
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Antonio Rotondo",
+    "title": "Chairman",
+    "company": "European-Emirati Business Council",
+    "linkedin": "https://www.linkedin.com/in/antonio-rotondo-eebc-europeanemiratibusinesscouncil-ccirc-chamberofcommerce",
+    "image": "images/antonio-rotondo.jpeg",
+    "active": true,
+    "featured": false,
+    "order": 1
+  },
+  {
+    "name": "Amro Almashharawi",
+    "title": "CEO",
+    "company": "Data Center Prime (DCP)",
+    "linkedin": "https://www.linkedin.com/in/amrocoffeeman",
+    "image": "images/amro-mashharawi.jpeg",
+    "active": true,
+    "featured": false,
+    "order": 2
+  },
+  {
+    "name": "Jonathan A Kwofie",
+    "title": "Head of Cyber Security",
+    "company": "Dubai Financial Services Authority (DFSA)",
+    "linkedin": "https://www.linkedin.com/in/jonathan-a-kwofie-25aa2414",
+    "image": "images/jonathan-kwofie.jpeg",
+    "active": true,
+    "featured": false,
+    "order": 3
+  },
+  {
+    "name": "Dr. Nader M. Ghazal",
+    "title": "Chairman",
+    "company": "African-Asian Council for AI & Cybersecurity",
+    "linkedin": "https://www.linkedin.com/in/drnaderghazal",
+    "image": "images/nader-ghazal.png",
+    "active": true,
+    "featured": false,
+    "order": 4
+  },
+  {
+    "name": "Muhammad Shafique",
+    "title": "Professor, Director eBRAIN & iCAS Lab",
+    "company": "New York University (NYU) Abu Dhabi, UAE",
+    "linkedin": "https://www.linkedin.com/in/muhammadshafiq",
+    "image": "images/muhammad-shafique.png",
+    "active": true,
+    "featured": false,
+    "order": 5
+  },
+  {
+    "name": "Vijay Velayutham",
+    "title": "Principal Information Security Officer",
+    "company": "Cyber Security Unit, MOEI",
+    "linkedin": "https://www.linkedin.com/in/v4vijay",
+    "image": "images/vijay-velayutham.jpeg",
+    "active": true,
+    "featured": false,
+    "order": 6
+  },
+  {
+    "name": "Dr. Arianna Mazzeo",
+    "title": "School of Communication & Creative Industries Prof.",
+    "company": "Canadian University Dubai",
+    "linkedin": "https://www.linkedin.com/in/arimazzeoinnovation",
+    "image": "images/arianna-mazzeo.jpeg",
+    "active": true,
+    "featured": false,
+    "order": 7
+  },
+  {
+    "name": "Heide Young",
+    "title": "Manager Cyber Strategy & Engagement",
+    "company": "NEOM",
+    "linkedin": "https://www.linkedin.com/in/heideyoung",
+    "image": "images/heide-young.jpg",
+    "active": true,
+    "featured": false,
+    "order": 8
+  }
+]
